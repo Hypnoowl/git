@@ -1,6 +1,9 @@
 var
 a,b:integer;
+ñ:integer;
 begin
 readln(a);
 readln(b);
+ñ:=a+b;
+write(ñ);
 end.
